@@ -8,5 +8,6 @@ let sum = 0;
 
 
 let names = ["Simba", "Scar", "Nala", "Mufasa", "Zazu"];
-// 3. Use a forEach loop to print each name along with its length (number of characters).
-//  - Example: the first message should read "Simba (Name Length: 5)"
+// 3. Use a forEach loop to print each name along with its index number.
+//  - You may have to search in this one - hint: the index can be put as a second parameter.
+//  - Example: the first message should read "Simba (Index: 0)"
